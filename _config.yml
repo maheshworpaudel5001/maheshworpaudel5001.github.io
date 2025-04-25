@@ -15,10 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Maheshwor Poudel
 email: maheshwor.poudel@nationwidechildrens.org
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- I am Maheshwor Poudel, Ph.D., a Postdoctoral Research Scientist at Nationwide Children's Hospital.
+My research bridges the fields of nuclear physics, bioinformatics, and immunology, with a strong focus on applying statistical modeling, stochastic processes, and machine learning to understand complex biological systems.
+Currently, I develop mathematical models of T cell clonal dynamics in brain tumors, leveraging multi-region sequencing data and Bayesian inference techniques to predict immune responses and neoantigen vaccine outcomes.
+I am passionate about integrating mechanistic modeling with data-driven approaches to uncover insights at the intersection of computational biology, cancer immunology, and systems medicine.
+Previously, I worked extensively on Effective Field Theory (EFT) descriptions of nuclear scattering phenomena, contributing to the understanding of nuclear reactions relevant to astrophysics and Big Bang nucleosynthesis.
+I am always excited about interdisciplinary collaboration and open-source science.
+You can explore my work on GitHub, connect on LinkedIn, or read my publications on Google Scholar.
 twitter_username: username
 github_username: maheshworpaudel5001
 minimal_mistakes_skin: aqua
